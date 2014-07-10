@@ -164,6 +164,9 @@ a.button span {
 #view-on-linkedin span {
   background: transparent url(../images/icon_linkedin.png) 12px 50% no-repeat;
 }
+#read-on-javapeanuts span {
+  background: transparent url(../images/javapeanuts.jpg) 12px 50% no-repeat;
+}
 #view-on-github {
   margin-right: 0;
 }
